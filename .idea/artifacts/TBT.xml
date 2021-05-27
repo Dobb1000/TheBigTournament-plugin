@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TBT">
+    <output-path>E:/Users/oskar/Desktop/testserver/neu/plugins</output-path>
+    <root id="archive" name="TBT.jar">
+      <element id="module-output" name="TBT" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

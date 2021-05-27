@@ -1,0 +1,14 @@
+name: TBT
+version: Alpha 2.0
+main: de.dobbcraft.main.Main
+description: THE BIG TOURNAMENT PLUGIN
+commands:
+  test:
+    description: test
+  timer:
+    description: Timer Command
+    permission: TBT.commands.timer
+  Bingo:
+    description: Bingo command
+  Hilfe:
+    description: ist der hilfe command
